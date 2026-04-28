@@ -5,7 +5,7 @@
   "outputDirectory": ".",
   "framework": "static",
   "public": true,
-  "env": [],
+  "env": {},
   "routes": [
     {
       "src": "/(.*)",
