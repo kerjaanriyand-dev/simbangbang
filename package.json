@@ -1,0 +1,18 @@
+{
+  "name": "form-pendataan-usaha",
+  "version": "1.0.0",
+  "description": "Form online untuk pendataan usaha dengan Google Sheets integration",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'No build needed for static site'"
+  },
+  "keywords": [
+    "form",
+    "google-sheets",
+    "vercel",
+    "business-data"
+  ],
+  "author": "",
+  "license": "MIT"
+}

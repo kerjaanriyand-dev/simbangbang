@@ -1,0 +1,19 @@
+# Project-specific files
+node_modules/
+.DS_Store
+*.log
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vercel
+.vercel/
+
+# Build outputs
+dist/
+build/
