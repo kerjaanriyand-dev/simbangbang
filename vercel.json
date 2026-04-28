@@ -1,13 +1,6 @@
 {
   "name": "form-pendataan-usaha",
   "version": 2,
-  "buildCommand": "echo No build needed",
-  "outputDirectory": ".",
-  "env": {},
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ]
+  "public": true,
+  "buildCommand": "echo 'Static site - no build needed'"
 }
